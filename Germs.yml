@@ -125,7 +125,7 @@
 - name: gsSmart
   strings:
     - ":gsSmart:"
-  location: "assets/germs/gsSmart.png"
+  location: "assets/germs/gsThink.png"
 - name: gsThonk
   strings:
     - ":gsThonk:"
