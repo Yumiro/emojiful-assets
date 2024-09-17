@@ -1,0 +1,180 @@
+- name: gsAngry
+  strings:
+    - ":gsAngry:"
+  location: "assets/germs/gsAngry.png"
+- name: gsCool
+  strings:
+    - ":gsCool:"
+  location: "assets/germs/gsCool.png"
+- name: gsCry
+  strings:
+    - ":gsCry:"
+  location: "assets/germs/gsCry.png"
+- name: gsDots1
+  strings:
+    - ":gsDots1:"
+  location: "assets/germs/gsDots1.png"
+- name: gsDots2
+  strings:
+    - ":gsDots2:"
+  location: "assets/germs/gsDots2.png"
+- name: gsDuh
+  strings:
+    - ":gsDuh:"
+  location: "assets/germs/gsDuh.png"
+- name: gsDuhFox
+  strings:
+    - ":gsDuhFox:"
+  location: "assets/germs/gsDuhFox.png"
+- name: gsFace
+  strings:
+    - ":gsFace:"
+  location: "assets/germs/gsFace.png"
+- name: gsFeels
+  strings:
+    - ":gsFeels:"
+  location: "assets/germs/gsFeels.png"
+- name: gsFlushed
+  strings:
+    - ":gsFlushed:"
+  location: "assets/germs/gsFlushed.png"
+- name: gsGlag
+  strings:
+    - ":gsGlag:"
+  location: "assets/germs/gsGlag.png"
+- name: gsGM
+  strings:
+    - ":gsGM:"
+  location: "assets/germs/gsGM.png"
+- name: gsLaugh
+  strings:
+    - ":gsLaugh:"
+  location: "assets/germs/gsLaugh.png"
+- name: gsLove
+  strings:
+    - ":gsLove:"
+  location: "assets/germs/gsLove.png"
+- name: gsMonkaS
+  strings:
+    - ":gsMonkaS:"
+  location: "assets/germs/gsMonkaS.png"
+- name: gsNoose
+  strings:
+    - ":gsNoose:"
+  location: "assets/germs/gsNoose.png"
+- name: gsNotLikeThis
+  strings:
+    - ":gsNotLikeThis:"
+  location: "assets/germs/gsNotLikeThis.png"
+- name: gsNPC
+  strings:
+    - ":gsNPC:"
+  location: "assets/germs/gsNPC.png"
+- name: gsOilUp
+  strings:
+    - ":gsOilUp:"
+  location: "assets/germs/gsOilUp.png"
+- name: gsOK
+  strings:
+    - ":gsOK:"
+  location: "assets/germs/gsOK.png"
+- name: gsOmegaLUL
+  strings:
+    - ":gsOmegaLUL:"
+  location: "assets/germs/gsOmegaLUL.png"
+- name: gsOuO
+  strings:
+    - ":gsOuO:"
+  location: "assets/germs/gsOuO.png"
+- name: pcStare
+  strings:
+    - ":pcStare:"
+  location: "assets/germs/pcStare.png"
+- name: gsPleading
+  strings:
+    - ":gsPleading:"
+  location: "assets/germs/gsPleading.png"
+- name: gsPls
+  strings:
+    - ":gsPls:"
+  location: "assets/germs/gsPls.png"
+- name: gsPog
+  strings:
+    - ":gsPog:"
+  location: "assets/germs/gsPog.png"
+- name: gsPoop
+  strings:
+    - ":gsPoop:"
+  location: "assets/germs/gsPoop.png"
+- name: gsPuddle
+  strings:
+    - ":gsPuddle:"
+  location: "assets/germs/gsPuddle.png"
+- name: gsShrug
+  strings:
+    - ":gsShrug:"
+  location: "assets/germs/gsShrug.png"
+- name: gsSick
+  strings:
+    - ":gsSick:"
+  location: "assets/germs/gsSick.png"
+- name: gsStare
+  strings:
+    - ":gsStare:"
+  location: "assets/germs/gsStare.png"
+- name: gsSmart
+  strings:
+    - ":gsSmart:"
+  location: "assets/germs/gsSmart.png"
+- name: gsThonk
+  strings:
+    - ":gsThonk:"
+  location: "assets/germs/gsThonk.png"
+- name: gsTroll
+  strings:
+    - ":gsTroll:"
+  location: "assets/germs/gsTroll.png"
+- name: gsTrollorT
+  strings:
+    - ":gsTrollorT:"
+  location: "assets/germs/gsTrollorT.png"
+- name: gsVirus
+  strings:
+    - ":gsVirus:"
+  location: "assets/germs/gsVirus.png"
+- name: gsVirusOs
+  strings:
+    - ":gsVirusOs:"
+  location: "assets/germs/gsVirusOs.png"
+- name: gsWaitWhat
+  strings:
+    - ":gsWaitWhat:"
+  location: "assets/germs/gsWaitWhat.png"
+- name: gsWeary
+  strings:
+    - ":gsWeary:"
+  location: "assets/germs/gsWeary.png"
+- name: gsXD
+  strings:
+    - ":gsXD:"
+  location: "assets/germs/gsXD.png"
+- name: gsYEPSTARE
+  strings:
+    - ":gsYEPSTARE:"
+  location: "assets/germs/gsYEPSTARE.png"
+- name: gsYUPSTARE
+  strings:
+    - ":gsYUPSTARE:"
+  location: "assets/germs/gsYUPSTARE.png"
+- name: poultry_strut
+  strings:
+    - ":poultry_strut:"
+  location: "assets/germs/poultry_strut.gif"
+- name: problem
+  strings:
+    - ":problem:"
+  location: "assets/germs/problem.png"
+- name: smil
+  strings:
+    - ":smil:"
+  location: "assets/germs/smil.png"
