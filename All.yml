@@ -252,7 +252,7 @@
   location: assets/all/gsPog.png
 - name: gsPoop
   strings:
-    - ":gsPoop:"
+    - "gsPoop"
   location: assets/all/gsPoop.png
 - name: gsPuddle
   strings:
