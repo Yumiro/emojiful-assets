@@ -502,10 +502,6 @@
   strings:
     - ":v_v:"
   location: assets/all/v_v.png
-- name: violenturges
-  strings:
-    - ":violenturges:"
-  location: assets/all/violenturges.png
 - name: vro
   strings:
     - ":vro:"
