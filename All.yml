@@ -1,0 +1,544 @@
+- name: AAAAAAAAAA
+  strings:
+    - ":AAAAAAAAAA:"
+  location: assets/all/AAAAAAAAAA.png
+- name: AEEUUHAUG
+  strings:
+    - ":AEEUUHAUG:"
+  location: assets/all/AEEUUHAUG.png
+- name: AWOOGA
+  strings:
+    - ":AWOOGA:"
+  location: assets/all/AWOOGA.png
+- name: BHHRBRBRHRHRBRG
+  strings:
+    - ":BHHRBRBRHRHRBRG:"
+  location: assets/all/BHHRBRBRHRHRBRG.png
+- name: BITCH
+  strings:
+    - ":BITCH:"
+  location: assets/all/BITCH.png
+- name: BLAHAIEBEOEJWKSJDKSJHE
+  strings:
+    - ":BLAHAIEBEOEJWKSJDKSJHE:"
+  location: assets/all/BLAHAIEBEOEJWKSJDKSJHE.png
+- name: BRHSABRHSBRBWHAAAAAAAA
+  strings:
+    - ":BRHSABRHSBRBWHAAAAAAAA:"
+  location: assets/all/BRHSABRHSBRBWHAAAAAAAA.png
+- name: EEUUFFGGGFGGGGNUT
+  strings:
+    - ":EEUUFFGGGFGGGGNUT:"
+  location: assets/all/EEUUFFGGGFGGGGNUT.png
+- name: HALANSNENEKDBENENSIS
+  strings:
+    - ":HALANSNENEKDBENENSIS:"
+  location: assets/all/HALANSNENEKDBENENSIS.png
+- name: HEURRMMMNMMNHMM
+  strings:
+    - ":HEURRMMMNMMNHMM:"
+  location: assets/all/HEURRMMMNMMNHMM.png
+- name: KILLYOUR
+  strings:
+    - ":KILLYOUR:"
+  location: assets/all/KILLYOUR.png
+- name: MOOOOOWWWWW
+  strings:
+    - ":MOOOOOWWWWW:"
+  location: assets/all/MOOOOOWWWWW.png
+- name: NJIIOOOOOOOOOOSOB
+  strings:
+    - ":NJIIOOOOOOOOOOSOB:"
+  location: assets/all/NJIIOOOOOOOOOOSOB.png
+- name: P_
+  strings:
+    - ":P_:"
+  location: assets/all/P_.png
+- name: STUPIDBITCH
+  strings:
+    - ":STUPIDBITCH:"
+  location: assets/all/STUPIDBITCH.png
+- name: Si
+  strings:
+    - ":Si:"
+  location: assets/all/Si.png
+- name: WHORE
+  strings:
+    - ":WHORE:"
+  location: assets/all/WHORE.png
+- name: WTF
+  strings:
+    - ":WTF:"
+  location: assets/all/WTF.png
+- name: XD
+  strings:
+    - ":XD:"
+  location: assets/all/XD.png
+- name: XDD
+  strings:
+    - ":XDD:"
+  location: assets/all/XDD.png
+- name: YIPPEE
+  strings:
+    - ":YIPPEE:"
+  location: assets/all/YIPPEE.png
+- name: _XD
+  strings:
+    - ":_XD:"
+  location: assets/all/_XD.png
+- name: __
+  strings:
+    - ":__:"
+  location: assets/all/__.png
+- name: agony
+  strings:
+    - ":agony:"
+  location: assets/all/agony.png
+- name: angy
+  strings:
+    - ":angy:"
+  location: assets/all/angy.png
+- name: bennettfine
+  strings:
+    - ":bennettfine:"
+  location: assets/all/bennettfine.png
+- name: chomik
+  strings:
+    - ":chomik:"
+  location: assets/all/chomik.gif
+- name: dawg
+  strings:
+    - ":dawg:"
+  location: assets/all/dawg.png
+- name: donki
+  strings:
+    - ":donki:"
+  location: assets/all/donki.png
+- name: eeper
+  strings:
+    - ":eeper:"
+  location: assets/all/eeper.png
+- name: emoji_104
+  strings:
+    - ":emoji_104:"
+  location: assets/all/emoji_104.png
+- name: eula_ew
+  strings:
+    - ":eula_ew:"
+  location: assets/all/eula_ew.png
+- name: flabbergastedMilly
+  strings:
+    - ":flabbergastedMilly:"
+  location: assets/all/flabbergastedMilly.png
+- name: found
+  strings:
+    - ":found:"
+  location: assets/all/found.png
+- name: fresh
+  strings:
+    - ":fresh:"
+  location: assets/all/fresh.png
+- name: fucker
+  strings:
+    - ":fucker:"
+  location: assets/all/fucker.png
+- name: glass_cat
+  strings:
+    - ":glass_cat:"
+  location: assets/all/glass_cat.png
+- name: gsAngry
+  strings:
+    - ":gsAngry:"
+  location: assets/all/gsAngry.png
+- name: gsCool
+  strings:
+    - ":gsCool:"
+  location: assets/all/gsCool.png
+- name: gsCoolDude
+  strings:
+    - ":gsCoolDude:"
+  location: assets/all/gsCoolDude.png
+- name: gsCry
+  strings:
+    - ":gsCry:"
+  location: assets/all/gsCry.png
+- name: gsDots1
+  strings:
+    - ":gsDots1:"
+  location: assets/all/gsDots1.png
+- name: gsDots2
+  strings:
+    - ":gsDots2:"
+  location: assets/all/gsDots2.png
+- name: gsDuh
+  strings:
+    - ":gsDuh:"
+  location: assets/all/gsDuh.png
+- name: gsDuhFox
+  strings:
+    - ":gsDuhFox:"
+  location: assets/all/gsDuhFox.png
+- name: gsFace
+  strings:
+    - ":gsFace:"
+  location: assets/all/gsFace.png
+- name: gsFeels
+  strings:
+    - ":gsFeels:"
+  location: assets/all/gsFeels.png
+- name: gsFlushed
+  strings:
+    - ":gsFlushed:"
+  location: assets/all/gsFlushed.png
+- name: gsGM
+  strings:
+    - ":gsGM:"
+  location: assets/all/gsGM.png
+- name: gsGlag
+  strings:
+    - ":gsGlag:"
+  location: assets/all/gsGlag.png
+- name: gsLaugh
+  strings:
+    - ":gsLaugh:"
+  location: assets/all/gsLaugh.png
+- name: gsLove
+  strings:
+    - ":gsLove:"
+  location: assets/all/gsLove.png
+- name: gsMonkaS
+  strings:
+    - ":gsMonkaS:"
+  location: assets/all/gsMonkaS.png
+- name: gsNPC
+  strings:
+    - ":gsNPC:"
+  location: assets/all/gsNPC.png
+- name: gsNoose
+  strings:
+    - ":gsNoose:"
+  location: assets/all/gsNoose.png
+- name: gsNotLikeThis
+  strings:
+    - ":gsNotLikeThis:"
+  location: assets/all/gsNotLikeThis.png
+- name: gsOK
+  strings:
+    - ":gsOK:"
+  location: assets/all/gsOK.png
+- name: gsOilUp
+  strings:
+    - ":gsOilUp:"
+  location: assets/all/gsOilUp.png
+- name: gsOmegaLUL
+  strings:
+    - ":gsOmegaLUL:"
+  location: assets/all/gsOmegaLUL.png
+- name: gsOuO
+  strings:
+    - ":gsOuO:"
+  location: assets/all/gsOuO.png
+- name: gsPleading
+  strings:
+    - ":gsPleading:"
+  location: assets/all/gsPleading.png
+- name: gsPls
+  strings:
+    - ":gsPls:"
+  location: assets/all/gsPls.png
+- name: gsPog
+  strings:
+    - ":gsPog:"
+  location: assets/all/gsPog.png
+- name: gsPoop
+  strings:
+    - ":gsPoop:"
+  location: assets/all/gsPoop.png
+- name: gsPuddle
+  strings:
+    - ":gsPuddle:"
+  location: assets/all/gsPuddle.png
+- name: gsShrug
+  strings:
+    - ":gsShrug:"
+  location: assets/all/gsShrug.png
+- name: gsSick
+  strings:
+    - ":gsSick:"
+  location: assets/all/gsSick.png
+- name: gsStare
+  strings:
+    - ":gsStare:"
+  location: assets/all/gsStare.png
+- name: gsSmart
+  strings:
+    - ":gsSmart:"
+  location: assets/all/gsThink.png
+- name: gsThonk
+  strings:
+    - ":gsThonk:"
+  location: assets/all/gsThonk.png
+- name: gsTroll
+  strings:
+    - ":gsTroll:"
+  location: assets/all/gsTroll.png
+- name: gsTrollorT
+  strings:
+    - ":gsTrollorT:"
+  location: assets/all/gsTrollorT.png
+- name: gsVirus
+  strings:
+    - ":gsVirus:"
+  location: assets/all/gsVirus.png
+- name: gsVirusOs
+  strings:
+    - ":gsVirusOs:"
+  location: assets/all/gsVirusOs.png
+- name: gsWaitWhat
+  strings:
+    - ":gsWaitWhat:"
+  location: assets/all/gsWaitWhat.png
+- name: gsWeary
+  strings:
+    - ":gsWeary:"
+  location: assets/all/gsWeary.png
+- name: gsXD
+  strings:
+    - ":gsXD:"
+  location: assets/all/gsXD.png
+- name: gsYEPSTARE
+  strings:
+    - ":gsYEPSTARE:"
+  location: assets/all/gsYEPSTARE.png
+- name: gsYUPSTARE
+  strings:
+    - ":gsYUPSTARE:"
+  location: assets/all/gsYUPSTARE.png
+- name: ha
+  strings:
+    - ":ha:"
+  location: assets/all/ha.png
+- name: hadit
+  strings:
+    - ":hadit:"
+  location: assets/all/hadit.png
+- name: he
+  strings:
+    - ":he:"
+  location: assets/all/he.png
+- name: him
+  strings:
+    - ":him:"
+  location: assets/all/him.png
+- name: honestman
+  strings:
+    - ":honestman:"
+  location: assets/all/honestman.png
+- name: hors
+  strings:
+    - ":hors:"
+  location: assets/all/hors.png
+- name: howboutifuckingmurderyouhowabout
+  strings:
+    - ":howboutifuckingmurderyouhowabout:"
+  location: assets/all/howboutifuckingmurderyouhowabout.png
+- name: idio
+  strings:
+    - ":idio:"
+  location: assets/all/idio.png
+- name: imitandoemojis
+  strings:
+    - ":imitandoemojis:"
+  location: assets/all/imitandoemojis.png
+- name: kitslep
+  strings:
+    - ":kitslep:"
+  location: assets/all/kitslep.gif
+- name: lick
+  strings:
+    - ":lick:"
+  location: assets/all/lick.png
+- name: lick2
+  strings:
+    - ":lick2:"
+  location: assets/all/lick2.png
+- name: licklove
+  strings:
+    - ":licklove:"
+  location: assets/all/licklove.png
+- name: licksane
+  strings:
+    - ":licksane:"
+  location: assets/all/licksane.png
+- name: lookinside
+  strings:
+    - ":lookinside:"
+  location: assets/all/lookinside.png
+- name: miau
+  strings:
+    - ":miau:"
+  location: assets/all/miau.png
+- name: moky
+  strings:
+    - ":moky:"
+  location: assets/all/moky.png
+- name: monke
+  strings:
+    - ":monke:"
+  location: assets/all/monke.png
+- name: monki
+  strings:
+    - ":monki:"
+  location: assets/all/monki.png
+- name: myhonesterection
+  strings:
+    - ":myhonesterection:"
+  location: assets/all/myhonesterection.png
+- name: nolick
+  strings:
+    - ":nolick:"
+  location: assets/all/nolick.png
+- name: o_o
+  strings:
+    - ":o_o:"
+  location: assets/all/o_o.png
+- name: ooooooFUCKER
+  strings:
+    - ":ooooooFUCKER:"
+  location: assets/all/ooooooFUCKER.png
+- name: oughhhhh
+  strings:
+    - ":oughhhhh:"
+  location: assets/all/oughhhhh.png
+- name: pcStare
+  strings:
+    - ":pcStare:"
+  location: assets/all/pcStare.png
+- name: plink
+  strings:
+    - ":plink:"
+  location: assets/all/plink.png
+- name: poultry_strut
+  strings:
+    - ":poultry_strut:"
+  location: assets/all/poultry_strut.gif
+- name: problem
+  strings:
+    - ":problem:"
+  location: assets/all/problem.png
+- name: que
+  strings:
+    - ":que:"
+  location: assets/all/que.png
+- name: retar
+  strings:
+    - ":retar:"
+  location: assets/all/retar.png
+- name: rice_cat
+  strings:
+    - ":rice_cat:"
+  location: assets/all/rice_cat.png
+- name: rice_dispair
+  strings:
+    - ":rice_dispair:"
+  location: assets/all/rice_dispair.png
+- name: scarab
+  strings:
+    - ":scarab:"
+  location: assets/all/scarab.gif
+- name: scheming
+  strings:
+    - ":scheming:"
+  location: assets/all/scheming.png
+- name: she
+  strings:
+    - ":she:"
+  location: assets/all/she.png
+- name: shup
+  strings:
+    - ":shup:"
+  location: assets/all/shup.png
+- name: slep
+  strings:
+    - ":slep:"
+  location: assets/all/slep.png
+- name: smil
+  strings:
+    - ":smil:"
+  location: assets/all/smil.png
+- name: smil2
+  strings:
+    - ":smil2:"
+  location: assets/all/smil2.png
+- name: sob
+  strings:
+    - ":sob:"
+  location: assets/all/sob.png
+- name: sobbing2
+  strings:
+    - ":sobbing2:"
+  location: assets/all/sobbing2.png
+- name: surreal
+  strings:
+    - ":surreal:"
+  location: assets/all/surreal.png
+- name: think
+  strings:
+    - ":think:"
+  location: assets/all/think.png
+- name: thiscatdeadasspogging
+  strings:
+    - ":thiscatdeadasspogging:"
+  location: assets/all/thiscatdeadasspogging.png
+- name: thumbcat
+  strings:
+    - ":thumbcat:"
+  location: assets/all/thumbcat.png
+- name: tree
+  strings:
+    - ":tree:"
+  location: assets/all/tree.png
+- name: v_v
+  strings:
+    - ":v_v:"
+  location: assets/all/v_v.png
+- name: violenturges
+  strings:
+    - ":violenturges:"
+  location: assets/all/violenturges.png
+- name: vro
+  strings:
+    - ":vro:"
+  location: assets/all/vro.png
+- name: waos
+  strings:
+    - ":waos:"
+  location: assets/all/waos.png
+- name: what
+  strings:
+    - ":what:"
+  location: assets/all/what.png
+- name: whatinthefuck
+  strings:
+    - ":whatinthefuck:"
+  location: assets/all/whatinthefuck.png
+- name: wire
+  strings:
+    - ":wire:"
+  location: assets/all/wire.png
+- name: wires
+  strings:
+    - ":wires:"
+  location: assets/all/wires.png
+- name: would
+  strings:
+    - ":would:"
+  location: assets/all/would.png
+- name: wuh
+  strings:
+    - ":wuh:"
+  location: assets/all/wuh.png
+- name: ya
+  strings:
+    - ":ya:"
+  location: assets/all/ya.png
